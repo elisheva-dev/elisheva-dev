@@ -3,10 +3,10 @@
 Full Stack Developer | React | Angular | .NET
 
 ## 🛠️ Tech Stack
-- Frontend: React, Angular, TypeScript, HTML, CSS
+- Frontend: React, Angular, JavaScript, TypeScript, HTML, CSS
 - Backend: .NET, Node.js, Express
-- Database: SQL, MongoDB
-- Tools: Git, GitHub, Postman
+- Database: SQL Server, MySQL, MongoDB
+- Tools & Technologies: Git, GitHub, Postman, WebApi, JWT, Entity Framework
 
 ## 🌐 Projects
 - [.NET-HotelApi](https://github.com/elisheva-dev/.NET-HotelApi)
