@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Elisheva Guttman
 
-<!--
-**elisheva-dev/elisheva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | React | Angular | .NET
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend: React, Angular, TypeScript, HTML, CSS
+- Backend: .NET, Node.js, Express
+- Database: SQL, MongoDB
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Projects
+- [.NET-HotelApi](https://github.com/elisheva-dev/.NET-HotelApi)
+- [React Project](https://react-project-1fe7.onrender.com/)
+- [Employee Management](https://employeemanagement-client.web.app/)
+- [TinyUrl](https://github.com/elisheva-dev/TinyUrl)
+
+## 📫 Contact
+- Email: elisheva.dev@gmail.com
+- GitHub: [elisheva-dev](https://github.com/elisheva-dev)
